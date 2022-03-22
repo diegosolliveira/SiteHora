@@ -1,2 +1,2 @@
 # SiteHora
- Criado com JS durante as aulas do Curso em Video.
+ Criado com HTML durante as aulas do Curso em Video.
